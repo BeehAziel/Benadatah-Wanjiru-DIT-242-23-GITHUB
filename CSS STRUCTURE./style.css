@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    margin: 1.25rem; /* 20px converted to rem */
+}
+/* Style the header */
+header {
+    background-color: #0000ff; /* Blue color code */
+    padding: 0.625rem; /* 10px converted to rem */
+    display: flex;
+    align-items: center;
+}
+
+
+/* Style the nav unordered list */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Style h1 and h2 elements */
+h1, h2 {
+    color: green;
+}
+
+/* Style the image on the home page */
+img {
+    display: block;
+    margin: 1.25rem; /* 20px converted to rem */
+}
+
+/* Style the hr element */
+hr {
+    border: 0;
+    height: 0.0625rem; /* 1px converted to rem */
+    background-color: orange;
+    margin: 1.25rem; /* 20px converted to rem */
+}
+
+  
